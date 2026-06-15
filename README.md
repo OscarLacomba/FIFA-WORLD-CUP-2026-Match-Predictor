@@ -1,5 +1,11 @@
 # ⚽ FIFA World Cup 2026 — Match Predictor
 
+Your goal is to build a web application that predicts World Cup match outcomes using machine learning and compares those predictions against human users.
+
+At the end of the tournament, we should be able to answer the question:
+
+"Can AI predict World Cup matches better than human fans?"
+
 > Machine Learning model to predict match outcomes for the FIFA World Cup 2026, with a full web application, leaderboard system, and AI-generated match analysis.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
